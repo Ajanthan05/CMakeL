@@ -1,0 +1,3 @@
+[submodule "ecternal/glfw"]
+	path = ecternal/glfw
+	url = https://github.com/glfw/glfw.git
